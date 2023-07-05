@@ -1,4 +1,14 @@
-.firstmenu{
+.first_menu{
+    background-color: lightblue;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.second_menu{
+    background-color: lightblue;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.third_menu{
     background-color: lightblue;
     padding: 20px;
 }
